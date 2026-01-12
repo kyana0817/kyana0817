@@ -2,6 +2,10 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyana0818&hide=html,css&theme=tokyonight) -->
 
+<img src="https://profile.kyana.workers.dev/languages" alt="Language Stats" />
+
+![](https://profile.kyana.workers.dev/languages)
+
 ![](https://github-readme-stats.vercel.app/api?username=kyana0817&show_icons=true?&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyana0817&hide=html,css&theme=dark)
 <!--
