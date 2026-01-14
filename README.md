@@ -1,3 +1,3 @@
-<img src="https://profile.kyana.workers.dev/languages" alt="languages">
+[language-stats](artifacts/language-stats.svg)
 
 blog: https://blog.kyana.dev/
