@@ -38,7 +38,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: language-stats-svg
-          path: language-stats.svg
+          path: dist/language-stats.svg
           retention-days: 30
 
       - name: Comment PR with artifact link
