@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="530" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .terminal-text { font-family: 'Monaco', 'Menlo', 'Courier New', monospace; }
+      .prompt { fill: #50fa7b; }
+      .command { fill: #8be9fd; }
+      .output { fill: #f8f8f2; }
+      .percentage { fill: #ffb86c; }
+      .bar-bg { fill: #44475a; }
+      .bar-fill { fill: #50fa7b; }
+    </style>
+  </defs>
+  
+  <rect width="600" height="530" fill="#282a36" rx="8"/>
+  
+  <rect width="600" height="40" fill="#21222c" rx="8"/>
+  <rect width="600" height="40" fill="#21222c"/>
+  <circle cx="20" cy="20" r="6" fill="#ff5555"/>
+  <circle cx="40" cy="20" r="6" fill="#ffb86c"/>
+  <circle cx="60" cy="20" r="6" fill="#50fa7b"/>
+  <text x="300" y="26" class="terminal-text output" font-size="14" text-anchor="middle" opacity="0.8">
+    kyana0817@github ~ language-stats
+  </text>
+  
+  <text x="20" y="70" class="terminal-text prompt" font-size="16" font-weight="bold">
+    $
+  </text>
+  <text x="35" y="70" class="terminal-text command" font-size="16">
+    analyze --repos=82
+  </text>
+  
+  <text x="20" y="100" class="terminal-text output" font-size="14" opacity="0.7">
+    Analyzing 82 repositories...
+  </text>
+  
+  <line x1="20" y1="115" x2="580" y2="115" stroke="#44475a" stroke-width="1"/>
+
+  <text x="20" y="145" class="terminal-text output" font-size="15">
+    TypeScript     
+  </text>
+  
+  <rect x="200" y="133" width="350" height="16" class="bar-bg" rx="2"/>
+  <rect x="200" y="133" width="99.65034542282208" height="16" class="bar-fill" rx="2"/>
+  
+  <text x="565" y="145" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
+    28.5%
+  </text>
+
+  <text x="20" y="180" class="terminal-text output" font-size="15">
+    JavaScript     
+  </text>
+  
+  <rect x="200" y="168" width="350" height="16" class="bar-bg" rx="2"/>
+  <rect x="200" y="168" width="78.43037228284122" height="16" class="bar-fill" rx="2"/>
+  
+  <text x="565" y="180" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
+    22.4%
+  </text>
+
+  <text x="20" y="215" class="terminal-text output" font-size="15">
+    Elixir         
+  </text>
+  
+  <rect x="200" y="203" width="350" height="16" class="bar-bg" rx="2"/>
+  <rect x="200" y="203" width="52.856574194292435" height="16" class="bar-fill" rx="2"/>
+  
+  <text x="565" y="215" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
+    15.1%
+  </text>
+
+  <text x="20" y="250" class="terminal-text output" font-size="15">
+    Python         
+  </text>
+  
+  <rect x="200" y="238" width="350" height="16" class="bar-bg" rx="2"/>
+  <rect x="200" y="238" width="42.85889003389124" height="16" class="bar-fill" rx="2"/>
+  
+  <text x="565" y="250" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
+    12.2%
+  </text>
+
+  <text x="20" y="285" class="terminal-text output" font-size="15">
+    Vim Script     
+  </text>
+  
+  <rect x="200" y="273" width="350" height="16" class="bar-bg" rx="2"/>
+  <rect x="200" y="273" width="28.39214697861987" height="16" class="bar-fill" rx="2"/>
+  
+  <text x="565" y="285" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
+    8.1%
+  </text>
+
+  <text x="20" y="320" class="terminal-text output" font-size="15">
+    Astro          
+  </text>
+  
+  <rect x="200" y="308" width="350" height="16" class="bar-bg" rx="2"/>
+  <rect x="200" y="308" width="9.838505065085323" height="16" class="bar-fill" rx="2"/>
+  
+  <text x="565" y="320" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
+    2.8%
+  </text>
+
+  <text x="20" y="355" class="terminal-text output" font-size="15">
+    Rust           
+  </text>
+  
+  <rect x="200" y="343" width="350" height="16" class="bar-bg" rx="2"/>
+  <rect x="200" y="343" width="8.206675198380958" height="16" class="bar-fill" rx="2"/>
+  
+  <text x="565" y="355" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
+    2.3%
+  </text>
+
+  <text x="20" y="390" class="terminal-text output" font-size="15">
+    C++            
+  </text>
+  
+  <rect x="200" y="378" width="350" height="16" class="bar-bg" rx="2"/>
+  <rect x="200" y="378" width="6.970026153176513" height="16" class="bar-fill" rx="2"/>
+  
+  <text x="565" y="390" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
+    2.0%
+  </text>
+
+  <text x="20" y="425" class="terminal-text output" font-size="15">
+    Ruby           
+  </text>
+  
+  <rect x="200" y="413" width="350" height="16" class="bar-bg" rx="2"/>
+  <rect x="200" y="413" width="6.349585753029193" height="16" class="bar-fill" rx="2"/>
+  
+  <text x="565" y="425" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
+    1.8%
+  </text>
+
+  <text x="20" y="460" class="terminal-text output" font-size="15">
+    PHP            
+  </text>
+  
+  <rect x="200" y="448" width="350" height="16" class="bar-bg" rx="2"/>
+  <rect x="200" y="448" width="6.208310236941082" height="16" class="bar-fill" rx="2"/>
+  
+  <text x="565" y="460" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
+    1.8%
+  </text>
+
+  
+  <text x="20" y="510" class="terminal-text prompt" font-size="14">
+    $
+  </text>
+  <text x="35" y="510" class="terminal-text output" font-size="14" opacity="0.5">
+    █
+  </text>
+</svg>
