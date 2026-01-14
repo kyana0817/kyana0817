@@ -1,0 +1,19 @@
+{
+  "name": "kyana0817",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "language-stats": "node languages.ts",
+    "language-stats:dev": "node --env-file=.env.local languages.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.20.0",
+  "devDependencies": {
+    "@types/node": "^25.0.8"
+  }
+}

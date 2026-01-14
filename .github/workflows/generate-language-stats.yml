@@ -1,0 +1,48 @@
+name: Generate Language Stats SVG
+
+on:
+  schedule:
+    # 毎日 UTC 0:00 に実行（日本時間では 09:00）
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # 手動実行も可能
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 10.20.0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Generate SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: pnpm language-stats
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: language-stats-svg
+          path: language-stats.svg
+          retention-days: 30
+
+      - name: Comment PR with artifact link
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          echo "✅ Language stats SVG generated successfully!"
+          echo "📊 Download the artifact from the workflow run."
