@@ -41,7 +41,7 @@
   </text>
   
   <rect x="200" y="133" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="133" width="143.17187391726756" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="133" width="143.13270650408975" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="145" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     40.9%
@@ -52,7 +52,7 @@
   </text>
   
   <rect x="200" y="168" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="168" width="59.918783577963104" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="168" width="59.90239164504151" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="180" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     17.1%
@@ -63,7 +63,7 @@
   </text>
   
   <rect x="200" y="203" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="203" width="40.185088025704154" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="203" width="40.1740946238353" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="215" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     11.5%
@@ -74,7 +74,7 @@
   </text>
   
   <rect x="200" y="238" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="238" width="32.58418266694762" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="238" width="32.57526863857976" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="250" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     9.3%
@@ -85,7 +85,7 @@
   </text>
   
   <rect x="200" y="273" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="273" width="21.585601090616482" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="273" width="21.57969593527084" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="285" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     6.2%
@@ -96,7 +96,7 @@
   </text>
   
   <rect x="200" y="308" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="308" width="15.391381697385038" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="308" width="15.387171089604157" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="320" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     4.4%
@@ -107,7 +107,7 @@
   </text>
   
   <rect x="200" y="343" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="343" width="7.906792736200066" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="343" width="7.904629681337845" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="355" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     2.3%
@@ -118,7 +118,7 @@
   </text>
   
   <rect x="200" y="378" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="378" width="6.239261062078309" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="378" width="6.237554192500811" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="390" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     1.8%
@@ -129,7 +129,7 @@
   </text>
   
   <rect x="200" y="413" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="413" width="5.299078095324293" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="413" width="5.2976284308368315" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="425" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     1.5%
@@ -140,7 +140,7 @@
   </text>
   
   <rect x="200" y="448" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="448" width="4.827377980917039" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="448" width="4.826057359046481" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="460" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     1.4%
