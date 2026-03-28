@@ -41,10 +41,10 @@
   </text>
   
   <rect x="200" y="133" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="133" width="143.13270650408975" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="133" width="142.26421709459" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="145" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
-    40.9%
+    40.6%
   </text>
 
   <text x="20" y="180" class="terminal-text output" font-size="15">
@@ -52,10 +52,10 @@
   </text>
   
   <rect x="200" y="168" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="168" width="59.90239164504151" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="168" width="59.53892061163419" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="180" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
-    17.1%
+    17.0%
   </text>
 
   <text x="20" y="215" class="terminal-text output" font-size="15">
@@ -63,10 +63,10 @@
   </text>
   
   <rect x="200" y="203" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="203" width="40.1740946238353" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="203" width="39.93032940364752" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="215" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
-    11.5%
+    11.4%
   </text>
 
   <text x="20" y="250" class="terminal-text output" font-size="15">
@@ -74,7 +74,7 @@
   </text>
   
   <rect x="200" y="238" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="238" width="32.57526863857976" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="238" width="32.37761097866953" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="250" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     9.3%
@@ -85,10 +85,10 @@
   </text>
   
   <rect x="200" y="273" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="273" width="21.57969593527084" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="273" width="21.44875634894036" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="285" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
-    6.2%
+    6.1%
   </text>
 
   <text x="20" y="320" class="terminal-text output" font-size="15">
@@ -96,7 +96,7 @@
   </text>
   
   <rect x="200" y="308" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="308" width="15.387171089604157" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="308" width="15.293806019803709" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="320" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     4.4%
@@ -107,7 +107,7 @@
   </text>
   
   <rect x="200" y="343" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="343" width="7.904629681337845" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="343" width="7.930932241199661" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="355" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     2.3%
@@ -118,7 +118,7 @@
   </text>
   
   <rect x="200" y="378" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="378" width="6.237554192500811" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="378" width="6.1997064504320685" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="390" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     1.8%
@@ -129,7 +129,7 @@
   </text>
   
   <rect x="200" y="413" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="413" width="5.2976284308368315" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="413" width="5.265483896578933" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="425" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     1.5%
@@ -140,7 +140,7 @@
   </text>
   
   <rect x="200" y="448" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="448" width="4.826057359046481" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="448" width="4.796774186748956" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="460" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
     1.4%
