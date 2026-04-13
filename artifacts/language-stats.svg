@@ -27,11 +27,11 @@
     $
   </text>
   <text x="35" y="70" class="terminal-text command" font-size="16">
-    analyze --repos=86
+    analyze --repos=91
   </text>
   
   <text x="20" y="100" class="terminal-text output" font-size="14" opacity="0.7">
-    Analyzing 86 repositories...
+    Analyzing 91 repositories...
   </text>
   
   <line x1="20" y1="115" x2="580" y2="115" stroke="#44475a" stroke-width="1"/>
@@ -41,10 +41,10 @@
   </text>
   
   <rect x="200" y="133" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="133" width="142.24362914698185" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="133" width="134.09341361621304" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="145" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
-    40.6%
+    38.3%
   </text>
 
   <text x="20" y="180" class="terminal-text output" font-size="15">
@@ -52,10 +52,10 @@
   </text>
   
   <rect x="200" y="168" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="168" width="59.53030436080718" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="168" width="56.11936206369033" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="180" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
-    17.0%
+    16.0%
   </text>
 
   <text x="20" y="215" class="terminal-text output" font-size="15">
@@ -63,10 +63,10 @@
   </text>
   
   <rect x="200" y="203" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="203" width="39.924550835104235" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="203" width="37.6369707429301" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="215" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
-    11.4%
+    10.8%
   </text>
 
   <text x="20" y="250" class="terminal-text output" font-size="15">
@@ -74,65 +74,65 @@
   </text>
   
   <rect x="200" y="238" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="238" width="32.372925411405184" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="238" width="30.518035171000676" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="250" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
-    9.2%
+    8.7%
   </text>
 
   <text x="20" y="285" class="terminal-text output" font-size="15">
-    Vim Script     
-  </text>
-  
-  <rect x="200" y="273" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="273" width="21.445652364811465" height="16" class="bar-fill" rx="2"/>
-  
-  <text x="565" y="285" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
-    6.1%
-  </text>
-
-  <text x="20" y="320" class="terminal-text output" font-size="15">
-    Shell          
-  </text>
-  
-  <rect x="200" y="308" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="308" width="15.291592757161172" height="16" class="bar-fill" rx="2"/>
-  
-  <text x="565" y="320" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
-    4.4%
-  </text>
-
-  <text x="20" y="355" class="terminal-text output" font-size="15">
-    Astro          
-  </text>
-  
-  <rect x="200" y="343" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="343" width="7.946995907901439" height="16" class="bar-fill" rx="2"/>
-  
-  <text x="565" y="355" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
-    2.3%
-  </text>
-
-  <text x="20" y="390" class="terminal-text output" font-size="15">
-    Rust           
-  </text>
-  
-  <rect x="200" y="378" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="378" width="6.198809252006534" height="16" class="bar-fill" rx="2"/>
-  
-  <text x="565" y="390" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
-    1.8%
-  </text>
-
-  <text x="20" y="425" class="terminal-text output" font-size="15">
     C++            
   </text>
   
+  <rect x="200" y="273" width="350" height="16" class="bar-bg" rx="2"/>
+  <rect x="200" y="273" width="23.46886808821757" height="16" class="bar-fill" rx="2"/>
+  
+  <text x="565" y="285" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
+    6.7%
+  </text>
+
+  <text x="20" y="320" class="terminal-text output" font-size="15">
+    Vim Script     
+  </text>
+  
+  <rect x="200" y="308" width="350" height="16" class="bar-bg" rx="2"/>
+  <rect x="200" y="308" width="20.216868411397662" height="16" class="bar-fill" rx="2"/>
+  
+  <text x="565" y="320" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
+    5.8%
+  </text>
+
+  <text x="20" y="355" class="terminal-text output" font-size="15">
+    Shell          
+  </text>
+  
+  <rect x="200" y="343" width="350" height="16" class="bar-bg" rx="2"/>
+  <rect x="200" y="343" width="14.567475102550077" height="16" class="bar-fill" rx="2"/>
+  
+  <text x="565" y="355" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
+    4.2%
+  </text>
+
+  <text x="20" y="390" class="terminal-text output" font-size="15">
+    Astro          
+  </text>
+  
+  <rect x="200" y="378" width="350" height="16" class="bar-bg" rx="2"/>
+  <rect x="200" y="378" width="7.491652284711066" height="16" class="bar-fill" rx="2"/>
+  
+  <text x="565" y="390" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
+    2.1%
+  </text>
+
+  <text x="20" y="425" class="terminal-text output" font-size="15">
+    Rust           
+  </text>
+  
   <rect x="200" y="413" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="413" width="5.264721895361704" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="413" width="5.843632491254932" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="425" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
-    1.5%
+    1.7%
   </text>
 
   <text x="20" y="460" class="terminal-text output" font-size="15">
@@ -140,10 +140,10 @@
   </text>
   
   <rect x="200" y="448" width="350" height="16" class="bar-bg" rx="2"/>
-  <rect x="200" y="448" width="4.796080015455136" height="16" class="bar-fill" rx="2"/>
+  <rect x="200" y="448" width="4.521276243481762" height="16" class="bar-fill" rx="2"/>
   
   <text x="565" y="460" class="terminal-text percentage" font-size="15" text-anchor="end" font-weight="bold">
-    1.4%
+    1.3%
   </text>
 
   
