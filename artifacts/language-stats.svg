@@ -27,11 +27,11 @@
     $
   </text>
   <text x="35" y="70" class="terminal-text command" font-size="16">
-    analyze --repos=95
+    analyze --repos=96
   </text>
   
   <text x="20" y="100" class="terminal-text output" font-size="14" opacity="0.7">
-    Analyzing 95 repositories...
+    Analyzing 96 repositories...
   </text>
   
   <line x1="20" y1="115" x2="580" y2="115" stroke="#44475a" stroke-width="1"/>
